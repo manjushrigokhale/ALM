@@ -1,0 +1,5 @@
+projectKey=java-CI-poc
+serverUrl=http://172.27.59.151:9000
+dashboardUrl=http://172.27.59.151:9000/dashboard/index/java-CI-poc
+ceTaskId=AVqD7GMsOuU-z2MLr1T_
+ceTaskUrl=http://172.27.59.151:9000/api/ce/task?id=AVqD7GMsOuU-z2MLr1T_
